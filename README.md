@@ -4,8 +4,8 @@ This is an api route that helps run [Duba Travels Website](https://www.dubauae.c
 
 | Route | Descrption | Link |
 | --- | --- | --- |
-| Countries | A list of countries, with their ISO Codes, Currency and more. | [/v1/countries.json](/vi/countries.json) |
-| Airports | A list of airports along with thie location data. | [/v1/airports.json](/vi/airports.json) |
+| Countries | A list of countries, with their ISO Codes, Currency and more. | [/v1/countries.json](/v1/countries.json) |
+| Airports | A list of airports along with thie location data. | [/v1/airports.json](/v1/airports.json) |
 
 
 ---
