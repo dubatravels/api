@@ -1,8 +1,8 @@
 # Duba Travels API
 
-This is an api route that helps run [Duba Travels Website](https://www.dubauae.com) and some of it's backend processes.
+This is an api route that helps run [Duba Travels Website](https://www.dubatravels.com) and some of it's backend processes.
 
-> Base URL: `api.dubauae.com`
+> Base URL: `api.dubatravels.com`
 
 | Route | Descrption | Link |
 | --- | --- | --- |
