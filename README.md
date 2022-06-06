@@ -10,6 +10,7 @@ This is an api route that helps run [Duba Travels Website](https://www.dubatrave
 | Countries | A list of countries, with their ISO Codes, Currency and more. | [/v1/countries.json](/v1/countries.json) |
 | Cities | A list of cities. | [/v1/cities.json](/v1/cities.json) |
 | Timezones | A list of timezones. | [/v1/timezones.json](/v1/timezones.json) |
+| Languages | A list of Languages. | [/v1/languages.json](/v1/languages.json) |
 | Phone Codes | A list of phone codes. | [/v1/phones.json](/v1/phones.json) |
 
 ---
