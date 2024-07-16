@@ -343,7 +343,7 @@
     },
     {
         "countryCode": "CC",
-        "countryName": "Cocos [Keeling] Islands",
+        "countryName": "Cocos Islands",
         "currencyCode": "AUD",
         "population": "628",
         "capital": "West Island",
@@ -591,7 +591,7 @@
         "population": "273008",
         "capital": "Laâyoune / El Aaiún",
         "continentName": "Africa",
-        "nationality": "Sahrawi, Sahrawian, Sahraouian"
+        "nationality": "Sahrawi"
     },
     {
         "countryCode": "ER",
@@ -690,7 +690,7 @@
         "population": "62348447",
         "capital": "London",
         "continentName": "Europe",
-        "nationality": "British, UK"
+        "nationality": "British"
     },
     {
         "countryCode": "GD",
@@ -789,7 +789,7 @@
         "population": "1014999",
         "capital": "Malabo",
         "continentName": "Africa",
-        "nationality": "Equatorial Guinean, Equatoguinean"
+        "nationality": "Equatoguinean"
     },
     {
         "countryCode": "GR",
@@ -798,7 +798,7 @@
         "population": "11000000",
         "capital": "Athens",
         "continentName": "Europe",
-        "nationality": "Greek, Hellenic"
+        "nationality": "Greek"
     },
     {
         "countryCode": "GS",
@@ -825,7 +825,7 @@
         "population": "159358",
         "capital": "Hagåtña",
         "continentName": "Oceania",
-        "nationality": "Guamanian, Guambat"
+        "nationality": "Guamanian"
     },
     {
         "countryCode": "GW",
@@ -852,7 +852,7 @@
         "population": "6898686",
         "capital": "Hong Kong",
         "continentName": "Asia",
-        "nationality": "Hong Kong, Hong Kongese"
+        "nationality": "Hong Kongese"
     },
     {
         "countryCode": "HM",
@@ -897,7 +897,7 @@
         "population": "9982000",
         "capital": "Budapest",
         "continentName": "Europe",
-        "nationality": "Hungarian, Magyar"
+        "nationality": "Hungarian"
     },
     {
         "countryCode": "ID",
@@ -969,7 +969,7 @@
         "population": "76923300",
         "capital": "Tehran",
         "continentName": "Asia",
-        "nationality": "Iranian, Persian"
+        "nationality": "Iranian"
     },
     {
         "countryCode": "IS",
@@ -1041,7 +1041,7 @@
         "population": "5776500",
         "capital": "Bishkek",
         "continentName": "Asia",
-        "nationality": "Kyrgyzstani, Kyrgyz, Kirgiz, Kirghiz"
+        "nationality": "Kyrgyzstani"
     },
     {
         "countryCode": "KH",
@@ -1068,7 +1068,7 @@
         "population": "773407",
         "capital": "Moroni",
         "continentName": "Africa",
-        "nationality": "Comoran, Comorian"
+        "nationality": "Comoran"
     },
     {
         "countryCode": "KN",
@@ -1077,7 +1077,7 @@
         "population": "51134",
         "capital": "Basseterre",
         "continentName": "North America",
-        "nationality": "Kittitian or Nevisian"
+        "nationality": "Kittitian"
     },
     {
         "countryCode": "KP",
@@ -1122,7 +1122,7 @@
         "population": "15340000",
         "capital": "Astana",
         "continentName": "Asia",
-        "nationality": "Kazakhstani, Kazakh"
+        "nationality": "Kazakhstani"
     },
     {
         "countryCode": "LA",
@@ -1131,7 +1131,7 @@
         "population": "6368162",
         "capital": "Vientiane",
         "continentName": "Asia",
-        "nationality": "Lao, Laotian"
+        "nationality": "Laotian"
     },
     {
         "countryCode": "LB",
@@ -1203,7 +1203,7 @@
         "population": "497538",
         "capital": "Luxembourg",
         "continentName": "Europe",
-        "nationality": "Luxembourg, Luxembourgish"
+        "nationality": "Luxembourgish"
     },
     {
         "countryCode": "LV",
@@ -1239,7 +1239,7 @@
         "population": "32965",
         "capital": "Monaco",
         "continentName": "Europe",
-        "nationality": "Monégasque, Monacan"
+        "nationality": "Monégasque"
     },
     {
         "countryCode": "MD",
@@ -1302,11 +1302,11 @@
         "population": "13796354",
         "capital": "Bamako",
         "continentName": "Africa",
-        "nationality": "Malian, Malinese"
+        "nationality": "Malian"
     },
     {
         "countryCode": "MM",
-        "countryName": "Myanmar [Burma]",
+        "countryName": "Myanmar",
         "currencyCode": "MMK",
         "population": "53414374",
         "capital": "Naypyitaw",
@@ -1329,7 +1329,7 @@
         "population": "449198",
         "capital": "Macao",
         "continentName": "Asia",
-        "nationality": "Macanese, Chinese"
+        "nationality": "Macanese"
     },
     {
         "countryCode": "MP",
@@ -1347,7 +1347,7 @@
         "population": "432900",
         "capital": "Fort-de-France",
         "continentName": "North America",
-        "nationality": "Martiniquais, Martinican"
+        "nationality": "Martiniquais"
     },
     {
         "countryCode": "MR",
@@ -1491,7 +1491,7 @@
         "population": "16645000",
         "capital": "Amsterdam",
         "continentName": "Europe",
-        "nationality": "Dutch, Netherlandic"
+        "nationality": "Dutch"
     },
     {
         "countryCode": "NO",
@@ -1509,7 +1509,7 @@
         "population": "28951852",
         "capital": "Kathmandu",
         "continentName": "Asia",
-        "nationality": "Nepali, Nepalese"
+        "nationality": "Nepali"
     },
     {
         "countryCode": "NR",
@@ -1536,7 +1536,7 @@
         "population": "4252277",
         "capital": "Wellington",
         "continentName": "Oceania",
-        "nationality": "New Zealand, NZ"
+        "nationality": "New Zealand"
     },
     {
         "countryCode": "OM",
@@ -1581,7 +1581,7 @@
         "population": "6064515",
         "capital": "Port Moresby",
         "continentName": "Oceania",
-        "nationality": "Papua New Guinean, Papuan"
+        "nationality": "Papua New Guinean"
     },
     {
         "countryCode": "PH",
@@ -1590,7 +1590,7 @@
         "population": "99900177",
         "capital": "Manila",
         "continentName": "Asia",
-        "nationality": "Philippine, Filipino"
+        "nationality": "Filipino"
     },
     {
         "countryCode": "PK",
@@ -1617,7 +1617,7 @@
         "population": "7012",
         "capital": "Saint-Pierre",
         "continentName": "North America",
-        "nationality": "Saint-Pierrais or Miquelonnais"
+        "nationality": "Saint-Pierrais"
     },
     {
         "countryCode": "PN",
@@ -1689,7 +1689,7 @@
         "population": "776948",
         "capital": "Saint-Denis",
         "continentName": "Africa",
-        "nationality": "Réunionese, Réunionnais"
+        "nationality": "Réunionese"
     },
     {
         "countryCode": "RO",
@@ -1734,7 +1734,7 @@
         "population": "25731776",
         "capital": "Riyadh",
         "continentName": "Asia",
-        "nationality": "Saudi, Saudi Arabian"
+        "nationality": "Saudi"
     },
     {
         "countryCode": "SB",
@@ -1797,7 +1797,7 @@
         "population": "2007000",
         "capital": "Ljubljana",
         "continentName": "Europe",
-        "nationality": "Slovenian, Slovene"
+        "nationality": "Slovenian"
     },
     {
         "countryCode": "SJ",
@@ -1851,7 +1851,7 @@
         "population": "10112453",
         "capital": "Mogadishu",
         "continentName": "Africa",
-        "nationality": "Somali, Somalian"
+        "nationality": "Somali"
     },
     {
         "countryCode": "SR",
@@ -2031,7 +2031,7 @@
         "population": "1228691",
         "capital": "Port of Spain",
         "continentName": "North America",
-        "nationality": "Trinidadian or Tobagonian"
+        "nationality": "Trinidadian"
     },
     {
         "countryCode": "TV",
@@ -2049,7 +2049,7 @@
         "population": "22894384",
         "capital": "Taipei",
         "continentName": "Asia",
-        "nationality": "Chinese, Taiwanese"
+        "nationality": "Chinese"
     },
     {
         "countryCode": "TZ",
@@ -2130,7 +2130,7 @@
         "population": "104217",
         "capital": "Kingstown",
         "continentName": "North America",
-        "nationality": "Saint Vincentian, Vincentian"
+        "nationality": "Saint Vincentian"
     },
     {
         "countryCode": "VE",
@@ -2175,7 +2175,7 @@
         "population": "221552",
         "capital": "Port Vila",
         "continentName": "Oceania",
-        "nationality": "Ni-Vanuatu, Vanuatuan"
+        "nationality": "Vanuatuan"
     },
     {
         "countryCode": "WF",
@@ -2184,7 +2184,7 @@
         "population": "16025",
         "capital": "Mata-Utu",
         "continentName": "Oceania",
-        "nationality": "Wallis and Futuna, Wallisian or Futunan"
+        "nationality": "Wallis and Futuna"
     },
     {
         "countryCode": "WS",
